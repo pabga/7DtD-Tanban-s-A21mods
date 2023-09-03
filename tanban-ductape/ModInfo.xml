@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+  
+    <Name value="tanban-ductape" />
+	<DisplayName value="Ductape Craft" />
+    <Description value="Adds ductape item to your workbench" />
+    <Author value="tanban" />
+    <Version value="1.0" />
+ 
+</xml>

@@ -1,0 +1,22 @@
+<configs>
+<append xpath="/items">
+	<!-- items  into -->
+	<item name="drugEyeKandy">
+	<property name="Extends" value="drugAtomJunkies"/>
+	<property name="DisplayType" value="drugEyeKandy"/>
+	<effect_group tiered="false" name="Candy Tier 1">
+		<display_value name="dLootStageFlat" value="5"/>
+		<display_value name="dLootStagePerc" value=".1"/>
+
+		<display_value name="dDuration" value="360"/>
+		<triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="$buffDrugEyeKandyDuration" operation="add" value="363"/>
+		<triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="$buffDrugEyeKandyDuration" operation="set" value="1083">
+			<requirement name="CVarCompare" cvar="$buffDrugEyeKandyDuration" operation="GT" value="1083"/></triggered_effect>
+		<triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" buff="buffDrugEyeKandy"/>
+
+		<triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="$foodAmountAdd" operation="add" value="5"/>
+		<triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" buff="buffProcessConsumables"/>
+	</effect_group>
+</item>
+</append>
+</configs>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+  
+    <Name value="tanban-shotgunparts" />
+	<DisplayName value="showgunsparts crafting" />
+    <Description value="Adds pistolparts item to your workbench" />
+    <Author value="tanban" />
+    <Version value="1.0" />
+  
+</xml>

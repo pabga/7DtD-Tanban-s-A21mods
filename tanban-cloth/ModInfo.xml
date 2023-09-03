@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+  <DisplayName value="Craft Cloth" />
+    <Name value="tanban-cloth" />
+    <Description value="Adds cloth as a craftable item" />
+    <Author value="tanban" />
+    <Version value="1.0" />
+ 
+</xml>

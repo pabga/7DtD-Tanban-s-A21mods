@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+ 
+    <Name value="tanban-rifleparts" />
+	<DisplayName value="rifleparts crafting" />
+    <Description value="Adds rifleparts item to your workbench" />
+    <Author value="tanban" />
+    <Version value="1.0" />
+ 
+</xml>

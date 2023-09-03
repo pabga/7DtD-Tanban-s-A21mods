@@ -1,0 +1,8 @@
+<configs>
+  <append xpath="/recipes">
+    <recipe name="drugEyeKandy" count="5" craft_area="workbench" >
+	  <ingredient name="resourceYuccaFibers" count="1"/>
+	  <ingredient name="drinkJarPureMineralWater" count="2"/>
+    </recipe>
+  </append>
+</configs>

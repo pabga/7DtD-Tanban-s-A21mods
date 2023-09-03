@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+
+    <Name value="tanban-robotics" />
+	<DisplayName value="Craftin Robotics" />
+    <Description value="Adds engineparts item to your workbench" />
+    <Author value="tanban" />
+    <Version value="1.0" />
+ 
+</xml>

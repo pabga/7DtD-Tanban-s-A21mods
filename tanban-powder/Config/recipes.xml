@@ -1,0 +1,8 @@
+<configs>
+  <append xpath="/recipes">
+    <recipe name="resourceGunPowder" count="25" craft_area="chemistryStation">
+      <ingredient name="resourceCrushedSand" count="2" />
+	  <ingredient name="resourceCoal" count="2" />
+    </recipe>
+  </append>
+</configs>

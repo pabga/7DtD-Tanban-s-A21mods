@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+  <DisplayName value="Acid Crafting" />
+    <Name value="tanban-acid-campfire" />
+    <Description value="Adds acid item to your campfire" />
+    <Author value="tanban" />
+    <Version value="1.0" />
+</xml>

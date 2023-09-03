@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+    <Name value="tanban-glue" />
+	<DisplayName value="Crafting Glue" />
+    <Description value="Adds glue item to your cstation" />
+    <Author value="tanban" />
+    <Version value="1.0" />
+  
+</xml>

@@ -1,0 +1,22 @@
+<configs>
+<append xpath="/items">
+	<!-- items  into -->
+	<item  name="questRewardBundleMagsX">
+		<property name="Extends" value="questRewardBundleMaster"/>
+		<property name="CreativeMode" value="Player"/>
+		<property name="CustomIcon" value="bookToolsDigest"/>
+		<property name="CustomIconTint" value="1AFF53"/>
+		<property name="ItemTypeIcon" value="bundle"/>
+		<property name="DescriptionKey" value="questRewardBundleMagsX"/>
+		<property name="DisplayType" value="questRewardBundleMagsX"/>
+	
+		<property class="Action0">
+			<property name="Create_item" value="resourceGunPowder,resourceBuckshot,resourceBulletTip,resourceBulletCasing,resourcePaper"/>
+			<property name="Create_item_count" value="300,300,300,300,300"/>
+			<property name="Random_item" value="workstationSkillMagazine,vehiclesSkillMagazine,medicalSkillMagazine,armorSkillMagazine,armorSkillMagazine,seedSkillMagazine,electricianSkillMagazine,trapsSkillMagazine,salvageToolsSkillMagazine,repairToolsSkillMagazine,harvestingToolsSkillMagazine,handgunsSkillMagazine,riflesSkillMagazine,shotgunsSkillMagazine,bladesSkillMagazine,clubsSkillMagazine,sledgehammersSkillMagazine,spearsSkillMagazine,bowsSkillMagazine"/>
+			<property name="Random_item_count" value="2,2,2,2,3,3,2,3,1,2,3,3,3,3,2,2,2,2,2"/>
+			<property name="Random_count" value="8"/>
+	</property>
+	</item>
+</append>
+</configs>

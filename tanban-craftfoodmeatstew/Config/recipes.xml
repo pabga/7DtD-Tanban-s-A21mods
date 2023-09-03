@@ -1,0 +1,8 @@
+<configs>
+  <append xpath="/recipes">
+    <recipe name="foodMeatStew" count="10" craft_area="campfire">
+      <ingredient name="foodRawMeat" count="5" />
+      <ingredient name="drinkJarBoiledWater" count="5" />
+    </recipe>
+  </append>
+</configs>

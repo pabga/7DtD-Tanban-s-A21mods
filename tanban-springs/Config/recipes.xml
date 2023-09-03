@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Adding scrap iron and forged iron as a craftable resource-->
+<recipes>
+  <append xpath="/recipes">
+    <recipe name="resourceSpring" count="5"  >
+      <ingredient name="resourceForgedIron" count="1" />
+      <ingredient name="resourceScrapIron" count="20" />
+    </recipe>
+  </append>
+</recipes>

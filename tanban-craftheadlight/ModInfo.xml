@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+  
+    <Name value="Tanban_CraftHeadlight" />
+	<DisplayName value="Craft Headlight" />
+    <Description value="Adds headlight as a craftable item to your workbench" />
+    <Author value="tanban" />
+    <Version value="1.0" />
+ 
+</xml>

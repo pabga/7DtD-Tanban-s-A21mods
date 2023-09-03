@@ -1,0 +1,8 @@
+<xml>
+		<Name value="tanban-craftfoodMeatStew"/>
+		<DisplayName value="Craft Food Meat" />
+		<Description value="Adds Meat Stew as a craftable item to your campfire"/>
+		<Author value="Tanban (Based on donovan's Modlets)"/>
+		<Version value="1.0"/>
+		
+</xml>

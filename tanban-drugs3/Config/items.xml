@@ -1,0 +1,20 @@
+<configs>
+<append xpath="/items">
+	<!-- items  into -->
+	<item name="drugHackers">
+	<property name="Extends" value="drugAtomJunkies"/>
+	<property name="DisplayType" value="drugHackers"/>
+	<effect_group tiered="false" name="Candy Tier 1">
+		<display_value name="dHarvestSalvage" value=".9"/>
+		<display_value name="dDuration" value="960"/>
+		<triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="$buffDrugHackersDuration" operation="add" value="963"/>
+		<triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="$buffDrugHackersDuration" operation="set" value="1083">
+			<requirement name="CVarCompare" cvar="$buffDrugHackersDuration" operation="GT" value="1083"/></triggered_effect>
+		<triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" buff="buffDrugHackers"/>
+
+		<triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="$foodAmountAdd" operation="add" value="5"/>
+		<triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" buff="buffProcessConsumables"/>
+	</effect_group>
+</item>
+</append>
+</configs>

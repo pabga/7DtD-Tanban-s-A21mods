@@ -1,0 +1,4 @@
+<configs>
+	<set xpath="/buffs/buff[@name='buffDrugHackers']/effect_group/passive_effect[@name='HarvestCount']/@value">2.5</set>
+	<set xpath="/buffs/buff[@name='buffDrugHackers']/effect_group/passive_effect[@name='PlayerExpGain']/@value">1.5</set>
+</configs>

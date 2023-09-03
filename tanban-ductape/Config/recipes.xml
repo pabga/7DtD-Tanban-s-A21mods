@@ -1,0 +1,8 @@
+<configs>
+  <append xpath="/recipes">
+    <recipe name="resourceDuctTape" count="12" craft_area="workbench">
+      <ingredient name="drinkJarRiverWater" count="2" />
+	  <ingredient name="resourceYuccaFibers" count="2" />
+    </recipe>
+  </append>
+</configs>

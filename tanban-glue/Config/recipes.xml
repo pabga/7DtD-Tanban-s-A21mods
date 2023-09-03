@@ -1,0 +1,10 @@
+<configs>
+  <append xpath="/recipes">
+    <recipe name="resourceGlue" count="10" craft_area="chemistryStation">
+      <ingredient name="drinkJarRiverWater" count="2" />
+	  <ingredient name="resourceYuccaFibers" count="2" />
+	  <ingredient name="resourceScrapPolymers" count="5" />
+	  
+    </recipe>
+  </append>
+</configs>

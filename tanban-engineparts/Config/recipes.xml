@@ -1,0 +1,11 @@
+<configs>
+  <append xpath="/recipes">
+    <recipe name="meleeToolAxeT3ChainsawParts" count="5" craft_area="workbench">
+      <ingredient name="resourceMetalPipe" count="20" />
+	  <ingredient name="resourceSpring" count="10" />
+	  <ingredient name="resourceScrapIron" count="50" />
+	  <ingredient name="resourceForgedIron" count="10" />
+	  
+    </recipe>
+  </append>
+</configs>

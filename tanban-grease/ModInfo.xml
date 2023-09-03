@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+  
+    <Name value="tanban-grease" />
+	<DisplayName value="crafting grease" />
+    <Description value="Adds grease as a craftable item" />
+    <Author value="tanban" />
+    <Version value="1.0" />
+
+</xml>

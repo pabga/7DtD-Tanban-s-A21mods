@@ -1,0 +1,7 @@
+<configs>
+  <append xpath="/recipes">
+    <recipe name="resourceCloth" count="10" >
+      <ingredient name="resourceYuccaFibers" count="5" />
+    </recipe>
+  </append>
+</configs>
