@@ -1,1 +1,1 @@
-# 7DtD-Tanban-s-mods
+# 7DtD-Tanban-s-A21mods
